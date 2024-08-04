@@ -1,0 +1,128 @@
+#page title
+page_title                                : CampaignFinder                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+
+# App Info
+ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+
+#appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                           # Enter Google Play Store URL.
+
+app_icon                                  : assets/yourmove.jpeg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Campaign Finder                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : A one-stop shop app for DnD players.
+
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices. 
+
+
+
+# Information About Yourself
+your_name                                 : COMP 3350 - Group 12                               
+your_link                                 : https://code.cs.umanitoba.ca/comp3350s24/a01-g12-campaignfinder                   
+your_city                                 : Winnipeg                               
+email_address                             : 
+facebook_username                         :                                           
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
+youtube_username                          :
+mastodon_link                             : 
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : Easy-to-use Account Creation
+    description                           : Get started using the application right away after supplying a personalized username, email, and password.
+    fontawesome_icon_name                 : scroll
+    
+  - title                                 : Update and Personalization
+    description                           : Change and customize your profile to tailor to your personality anytime you like with a simple interface.
+    fontawesome_icon_name                 : hat-wizard
+
+  - title                                 : Search For Players
+    description                           : Search for other app users via their username, and filter on any specific interests that you may have in common.
+    fontawesome_icon_name                 : dice
+
+  - title                                 : Automated Matchmaking
+    description                           : Using the tags from your profile, automatically find other players or available campaigns that match on those similar tags in descending order.
+    fontawesome_icon_name                 : dragon
+
+  - title                                 : Join Groups
+    description                           : Search or matchmake to find joinable groups, allowing you to get together in a unified location with others to begin or continue games.
+    fontawesome_icon_name                 : dice-d6
+  
+  - title                                 : Host Groups
+    description                           : Provide a game listing you're interested in playing to let other interested users find a group they'd feel comfortable in too.
+    fontawesome_icon_name                 : dice-d20
+
+  - title                                 : Account Removal
+    description                           : Easily delete your account and remove all associated account information when you feel like taking a leave of absence from the app.
+    fontawesome_icon_name                 : skull-crossbones
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/website_pics/campaign2_crop.png         # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.8
+
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "#ffffff"  # was '#ffffff'
+
+link_color                                : "#4169e1"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"  # was '#000000'
+feature_text_color                        : "#666666"  # was '#666666'
+
+feature_icons_foreground_color            : "#ff0000"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"  # was '#666666'
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
