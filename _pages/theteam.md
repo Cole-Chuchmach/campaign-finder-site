@@ -188,12 +188,12 @@ include_in_header: true
 
 ### *Developmental Skills Gained:*
 * Technical Skills:
- * Learned about the various layers of software design and implemented them in a project.
- * Became familiar with Android Studio, its UI, and tooling components.
- * Improved the understanding of issues and code smells.
- * Gained hands-on experience with the version control system in a team.
- * Learned to properly use libraries of androdoid studio, how write and perform testing and debigging.
+   * Learned about the various layers of software design and implemented them in a project.
+   * Became familiar with Android Studio, its UI, and tooling components.
+   * Improved the understanding of issues and code smells.
+   * Gained hands-on experience with the version control system in a team.
+   * Learned to properly use libraries of androdoid studio, how write and perform testing and debigging.
 * Project Management:
- * Improved management and organizational abilities using planning boards and reflective estimates.
- * Strengthened communication skills by sharing ideas and integrating feedback from team members.
- * Effectively collaborated on a project with multiple team members.
+   * Improved management and organizational abilities using planning boards and reflective estimates.
+   * Strengthened communication skills by sharing ideas and integrating feedback from team members.
+   * Effectively collaborated on a project with multiple team members.
