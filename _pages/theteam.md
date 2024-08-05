@@ -135,3 +135,64 @@ title: The Team
 * How to develop for a specific layer, in isolation from others, without breaking the application.
 * Learned that custom exceptions are always better than more general ones, and when to use them.
 * Successfully worked and collaborated on a project with multiple team members accessing it at once.
+
+## Ochiagha ifeanyi
+
+### *Contributions Made:*
+
+* UI and Logic Development:
+    * Developed the UI for the campaign search homepage and developed the UI for find games.
+    * Devoloped the logic and database for joining campaigns.
+    * Developed the logic for displaying seached campaigns with the campaign result adapter and result adapter.
+    * Wrote logic to link result page and the campaign page.
+    * Updated UI for the campaign view page. 
+    * Wrote part of the logic for displaying campaign information on campaign view page.
+* Minor Code Refactoring:
+    * Refactored some methods to remove duplicate code.
+* Error Handling:
+    * Created the exception for joining campaigns. 
+* Testing:
+    * Wrote integration tests for the tag Adapter logic class.
+    * Wrote integration tests for the Contact method service class.
+    * Wrote integration tests for the Account create Service class, Login service class.
+    * Wrote integration tests for join campaign method in the campaign modification service class.
+
+### *Developmental Skills Gained:*
+
+* Technical Skills:
+    * Gained familiarity with Android Studio, including its UI interfaces and component logic.
+    * Improved ability to perform major refactoring and implement n-tier architecture.
+    * Enhanced skills in identifying potential issues and code smells during reviews.
+    * Strengthened testing skills through the use of mock objects and stubs with Mockito.
+    * Learned to properly import and utilize libraries such as Espresso and Mockito.
+    * Implemented effective version control strategies for the team.
+* Project Management:
+    * Developed communication skills by sharing ideas and incorporating feedback from team members.
+    * Successfully collaborated on a project with multiple team members working simultaneously.
+    * Learnt how to better estimate 
+* Best Practices:
+    * Ensured code separation by implementing features and corresponding logic across different layers.
+
+## Mustaba Mubasweer
+
+### *Contrbutions Made:*
+*Stub and initial databse development for iteration 1
+*Worked on user stories and features
+*Maintained coding standards.
+*Wrote tests for specific functionality and logics
+*Contributed to the design, implementation, and testing on HSQLDB database for campaign with the existing database.
+*UI and Logic Development for Campaign view page.
+*Developed the UI and logic for the manage players on campaign page, including creating a proper adapter class.
+*Implemented logic and linked them with other UI elements, updating the data.
+
+### *Developmental Skills Gained:*
+*Technical Skills:
+ *Learned about the various layers of software design and implemented them in a project.
+ *Became familiar with Android Studio, its UI, and tooling components.
+ *Improved the understanding of issues and code smells.
+ *Gained hands-on experience with the version control system in a team.
+ *Learned to properly use libraries of androdoid studio, how write and perform testing and debigging.
+*Project Management:
+ *Improved management and organizational abilities using planning boards and reflective estimates.
+ *Strengthened communication skills by sharing ideas and integrating feedback from team members.
+ *Effectively collaborated on a project with multiple team members.
