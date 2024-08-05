@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Team
+include_in_header: true
 ---
 
 # *A list of the team members, the contributions they made, and the developmental skills they learned*
@@ -176,23 +177,23 @@ title: The Team
 ## Mustaba Mubasweer
 
 ### *Contrbutions Made:*
-*Stub and initial databse development for iteration 1
-*Worked on user stories and features
-*Maintained coding standards.
-*Wrote tests for specific functionality and logics
-*Contributed to the design, implementation, and testing on HSQLDB database for campaign with the existing database.
-*UI and Logic Development for Campaign view page.
-*Developed the UI and logic for the manage players on campaign page, including creating a proper adapter class.
-*Implemented logic and linked them with other UI elements, updating the data.
+* Stub and initial databse development for iteration 1
+* Worked on user stories and features
+* Maintained coding standards.
+* Wrote tests for specific functionality and logics
+* Contributed to the design, implementation, and testing on HSQLDB database for campaign with the existing database.
+* UI and Logic Development for Campaign view page.
+* Developed the UI and logic for the manage players on campaign page, including creating a proper adapter class.
+* Implemented logic and linked them with other UI elements, updating the data.
 
 ### *Developmental Skills Gained:*
-*Technical Skills:
- *Learned about the various layers of software design and implemented them in a project.
- *Became familiar with Android Studio, its UI, and tooling components.
- *Improved the understanding of issues and code smells.
- *Gained hands-on experience with the version control system in a team.
- *Learned to properly use libraries of androdoid studio, how write and perform testing and debigging.
-*Project Management:
- *Improved management and organizational abilities using planning boards and reflective estimates.
- *Strengthened communication skills by sharing ideas and integrating feedback from team members.
- *Effectively collaborated on a project with multiple team members.
+* Technical Skills:
+ * Learned about the various layers of software design and implemented them in a project.
+ * Became familiar with Android Studio, its UI, and tooling components.
+ * Improved the understanding of issues and code smells.
+ * Gained hands-on experience with the version control system in a team.
+ * Learned to properly use libraries of androdoid studio, how write and perform testing and debigging.
+* Project Management:
+ * Improved management and organizational abilities using planning boards and reflective estimates.
+ * Strengthened communication skills by sharing ideas and integrating feedback from team members.
+ * Effectively collaborated on a project with multiple team members.
